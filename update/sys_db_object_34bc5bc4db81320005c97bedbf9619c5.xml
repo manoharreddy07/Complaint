@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Complaint</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_32663_complaint_complaint</name>
+        <number_ref display_value="COMP">aedcd30cdbc5320005c97bedbf961903</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">ae7a2053db33220005c97bedbf9619d0</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-15 15:10:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>34bc5bc4db81320005c97bedbf9619c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Complaint</sys_name>
+        <sys_package display_value="Complaint" source="x_32663_complaint">10ac130cdbc5320005c97bedbf961951</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Complaint">10ac130cdbc5320005c97bedbf961951</sys_scope>
+        <sys_update_name>sys_db_object_34bc5bc4db81320005c97bedbf9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-15 15:10:23</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_32663_complaint.complaint_user" name="x_32663_complaint.complaint_user">9adc130cdbc5320005c97bedbf961954</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

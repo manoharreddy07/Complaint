@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Complaint" max_length="40" name="x_32663_complaint_complaint" type="collection"/>
+</database>
